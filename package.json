@@ -1,0 +1,15 @@
+{
+  "name": "trabalhorobson",
+  "version": "1.0.0",
+  "main": "atualizaSaldo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
